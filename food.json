@@ -1,0 +1,12 @@
+[
+    { "nom": "Pain", "categorie": "Glucides", "image": "http://localhost:8000/img?food=pain" },
+    { "nom": "Pâtes", "categorie": "Glucides", "image": "http://localhost:8000/img?food=pates" },
+    { "nom": "Riz", "categorie": "Glucides", "image": "http://localhost:8000/img?food=riz" },
+    { "nom": "Avocat", "categorie": "Lipides", "image": "http://localhost:8000/img?food=avocat" },
+    { "nom": "Beurre", "categorie": "Lipides", "image": "http://localhost:8000/img?food=beurre" },
+    { "nom": "Noix", "categorie": "Lipides", "image": "http://localhost:8000/img?food=noix" },
+    { "nom": "Poulet", "categorie": "Protéines", "image": "http://localhost:8000/img?food=poulet" },
+    { "nom": "Oeufs", "categorie": "Protéines", "image": "http://localhost:8000/img?food=oeufs" },
+    { "nom": "Saumon", "categorie": "Protéines", "image": "http://localhost:8000/img?food=saumon" },
+    { "nom": "Banane", "categorie": "Glucides", "image": "http://localhost:8000/img?food=banane" }
+  ] 
